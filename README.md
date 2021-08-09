@@ -10,7 +10,7 @@ The code outputs 4 different .txt files:
 To run this code:
 1. Modify line 17 in Azure.ResourceManager.Samples.Tests.csproj to point to the .csproj of Azure.ResourceManager.Sample on your computer.
 2. Modify line 25 in VerifyMethodsTests.cs to point at the Swagger file of Azure.ResourceManager.Sample. 
-3. Modify lines 100, 149, 229, and 325 to point at the directory the txt should be outputted to. 
+3. Modify lines 100, 149, 229, and 322 to point at the directory the txt should be outputted to. 
 4. Run VerifyMethods to generate the 4 files. <br />
 
 Necessary changes have been marked with a TODO tag.
